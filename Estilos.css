@@ -1,0 +1,49 @@
+.centrado{
+    
+    text-align:center;border: 2px solid #000; padding:8px;}
+		div{width:50%;border:1px dotted #f00;padding:8px;margin:auto;}
+		center{margin:16px 0;}
+
+#Nombre{
+    margin: solid 2px;
+    border: solid 2px;
+    padding:  2px;
+    }
+    legend{
+
+        border: solid 1px;
+        border-radius: 15px;
+        background-color: aqua;
+    }
+
+        /**
+        tratando de centrar el titulo principal
+        */        
+        #h1{ 
+            text-align: center;
+            color: blue;
+        }
+
+        body {
+            background-color: rgb(0, 255, 115);
+
+        }
+        iframe {
+            display : block;
+            margin: 0px auto;
+        }
+
+.buttons {
+
+   text-align: center;
+   size: 12px;
+}
+
+.QR {
+    text-align: center;
+}
+
+.Contacto{
+
+    text-align: center;
+}
